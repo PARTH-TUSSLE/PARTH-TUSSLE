@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm PARTH GARTAN
 
-### 👨‍💻 Passionate MERN Stack Developer
-Welcome to my little corner of GitHub! 🎨 I'm a passionate developer and designer with a knack for crafting sleek, responsive web applications. Whether it's fine-tuning the UX/UI of a website or diving deep into JavaScript, I love solving problems and bringing ideas to life in the digital world.
+🔧 MERN tinkerer | UI neat freak | Always shipping pixels that work.
 
 # 🌐 Connect with Me
 <div align="center">
