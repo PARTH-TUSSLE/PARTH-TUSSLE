@@ -37,7 +37,7 @@
 - Deepening my understanding of MERN Stack.
 
 ### 🎯 Goals for 2025
-- Have a very good understanding of MERN Stack and build some exceptional projects.
+- Have a very good understanding of the T3 Stack and build some exceptional projects.
 
 ## 📊 GitHub Stats:
 
