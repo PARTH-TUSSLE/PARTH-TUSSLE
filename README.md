@@ -7,7 +7,7 @@
 
 # Hi there! I'm PARTH GARTAN  
 
-🔧 MERN tinkerer | UI neat freak | Always shipping pixels that work.  
+🔧 MERN tinkerer | UI neat freak | Always shipping pixels that work.
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2EwenhxaWdwZGxzdWxmN3FyaWt0bG9zYjZxeGJtcHhrenEzeG0xcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="400" alt="Funny Coding GIF">
 </div>
