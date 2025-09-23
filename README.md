@@ -1,7 +1,4 @@
-<!-- Funny coding GIF at the top -->
 
-
----
 
 <div align="center">  
 
