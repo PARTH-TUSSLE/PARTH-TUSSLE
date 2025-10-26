@@ -2,7 +2,7 @@
 
 <div align="center">   
 
-# Hi there! I'm PARTH GARTAN   
+# Hi there! I'm PARTH GARTAN    
   
  T3 & MERN stack developer | Always shipping pixels that work.
 <div align="center">
