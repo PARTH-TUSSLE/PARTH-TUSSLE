@@ -1,16 +1,13 @@
 <div align="center">
-# Hi there! I'm PARTH GARTAN
- 
- T3 & MERN stack developer | Currently diving deep into AI/ML.
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2EwenhxaWdwZGxzdWxmN3FyaWt0bG9zYjZxeGJtcHhrenEzeG0xcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="400" alt="Funny Coding GIF">
+  <img src="https://github.com/user-attachments/assets/208fc571-7ef0-4214-8995-d2c9de519ea4" width="600">
 </div>
 
 ---
 
-# 🌐 Connect with Me
+# Connect with Me
 
 <div align="center">
   <a href="https://github.com/parth-tussle" target="_blank">
@@ -32,13 +29,15 @@
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -59,7 +58,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# Stats
 
 <div align="center">
 
@@ -75,5 +74,3 @@
 </div>
 
 ---
-
-*GitHub stats are dynamic and may take a few minutes to load or update after pushing changes.*
