@@ -7,8 +7,6 @@
 
 ---
 
-# Connect with Me
-
 <div align="center">
   <a href="https://github.com/parth-tussle" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
@@ -29,7 +27,7 @@
 
 ---
 
-# Tech Stack
+
 
 <div align="center">
 
@@ -58,7 +56,6 @@
 
 ---
 
-# Stats
 
 <div align="center">
 
