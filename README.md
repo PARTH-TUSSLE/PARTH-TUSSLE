@@ -59,14 +59,32 @@
 
 <div align="center">
 
-### GitHub Stats Card
-![Parth's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=parth-tussle&theme=neon&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&cache_seconds=1800)
+<div align="center">
 
-### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=parth-tussle&theme=neon&hide_border=false)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=parth-tussle&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF&bg_color=0d1117" height="170" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-tussle&theme=tokyonight&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&background=0d1117" height="170" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parth-tussle&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&bg_color=0d1117" height="170" alt="Top Languages"/>
+    </td>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/Parth_tussle?theme=light&font=Roboto" height="170" alt="LeetCode Stats"/>
+    </td>
+  </tr>
+</table>
 
-### Top Languages
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parth-tussle&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800)
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:0a1628,100:00D4FF&height=110&section=footer&text=Code+the+vision.+Ship+the+product.&fontSize=16&fontAlignY=68&fontColor=ffffff" />
 
 </div>
 
